@@ -1,0 +1,13 @@
+body{
+	font:normal 0.8em "Trebucet MS", Tahoma, Verdana, Arial, sans-serif;
+}
+form, textarea{
+	width:300px;
+}
+label{
+	display:table;
+	width:100%;
+}
+label span.countdown span{
+	float:right;
+}
